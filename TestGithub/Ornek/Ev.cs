@@ -14,6 +14,24 @@ namespace TestGithub.Ornek
             Console.WriteLine("sasasa");
             Console.WriteLine("sasasa");
             Console.WriteLine("sasasa");
+             Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+ Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+ Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
 
             
     }
