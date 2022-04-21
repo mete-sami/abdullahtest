@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace TestGithub.Ornek
 {
-    internal class Ev
+    public class Ev
     {
+       Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+            Console.WriteLine("sasasa");
+
+            
     }
 }
